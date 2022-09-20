@@ -1,0 +1,88 @@
+body{
+  background-color:#D3D3D3;
+}
+.image img{
+    border-radius: 50%;
+    width: 220px;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: 385px;
+    margin-right: 401px;
+}
+.image h1{
+    margin-left: 345px;
+    margin-right: 401px;
+    position: relative;
+    margin-top: 10px;
+}
+.image p{
+      margin-left: 205px;
+    margin-right: 290px;
+    position: relative;
+    margin-top:12px;
+    left: 12%;
+}
+.gride{
+  margin-left: 220px !important;
+  
+}
+.list{
+
+    margin-right: 21px;
+    text-align: left;
+    padding-left: 0px;
+}
+.gride-2{
+    
+       padding-left: 88px;
+}
+/*.container-gride.row{
+      padding-left: 88px;
+}*/
+
+
+/*contect page*/
+
+.well{
+      margin-top: 85px;
+    margin-left: 111px;
+    margin-right: -18px;
+    height: 420px;
+}
+
+.well h2{
+    margin-top: 5px;
+    margin-bottom:0px;
+    text-align: center;
+}
+.well label{
+    margin-top: 10px;
+    margin-left: 25px;
+    float: left;
+   
+
+}
+.well input{
+       margin-top: 0;
+    margin-left: 25px;
+    float: left;
+    width: 95%;
+
+}
+.well textarea{
+    margin-top: 10px;
+    margin-left: 25px;
+    float: left;
+    width: 200%;
+    height: 75px;
+}
+.well button{
+    margin-top: 30px;
+    margin-left: 25px;
+    background-color: black;
+    color: #fff;
+    float: left;
+    border-radius: none;
+    width: 120px;
+    height: 45px;
+    font-family: arial;}
